@@ -1,14 +1,3 @@
----
-title: "Climate Change Intelligence App"
-author: "Hassan Lekssays"
-date: "`r Sys.Date()`"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Climate Intelligence and Sustainability Applications
 
 ## Description
@@ -20,9 +9,6 @@ This is a climate change intelligence application that collects and analyzes cli
 
 ![Climate Intelligence App Demo](ClimateChangeApp.gif)
 
-### Live Demo
-🔗 [Access the GSPI App](https://hassandscientist.shinyapps.io/GSPI/)
-
 ## Contact
-https://github.com/hassandscientist
+https://github.com/hassandscientist \\
 https://linkedin.com/in/hlekssays
